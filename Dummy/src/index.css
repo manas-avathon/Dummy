@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html, body, #root { /* Or the ID of your main React div */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; Uncomment if you get double scrollbars */
+}
+
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
